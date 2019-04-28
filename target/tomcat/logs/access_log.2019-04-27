@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:20:13:46 +0530] "GET / HTTP/1.1" 404 949 http-bio-8080-exec-1 5047
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:20:13:46 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:21:01:23 +0530] "POST /payment-resource/paymentResource/payNow HTTP/1.1" 404 949 http-bio-8080-exec-6 1673
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:21:03:17 +0530] "POST /payment-resource/paymentResource/payNow HTTP/1.1" 404 949 http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:22:16:47 +0530] "POST /paymentResource/payNow HTTP/1.1" 200 116 http-bio-8080-exec-2 27640
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:22:17:44 +0530] "POST /paymentResource/payNow HTTP/1.1" 200 116 http-bio-8080-exec-2 62
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:22:18:07 +0530] "POST /paymentResource/payNow HTTP/1.1" 200 117 http-bio-8080-exec-2 52
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:22:20:23 +0530] "GET /paymentResource/getTransactionVendorByVendor/Paytm HTTP/1.1" 200 141 http-bio-8080-exec-7 2621
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:22:20:40 +0530] "GET /paymentResource/getTransactionVendorByVendor/GPay HTTP/1.1" 200 139 http-bio-8080-exec-7 101
